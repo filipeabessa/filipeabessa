@@ -6,8 +6,9 @@
 
 📫 How to reach me:
 
-[Instagram](https://www.instagram.com/filipeabessa/?hl=pt-br)
-[Linkedin](https://www.linkedin.com/in/filipe-gbessa/)
+*[Instagram](https://www.instagram.com/filipeabessa/?hl=pt-br)
+
+*[Linkedin](https://www.linkedin.com/in/filipe-gbessa/)
   
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipegbessaa)](https://github.com/Filipegbessaa&show_icons=true&theme=radical)
