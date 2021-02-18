@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Next JS! I'm working in my first project using this framework and i'm loving it!
 
-- 📫 How to reach me:
+📫 How to reach me:
   -https://www.instagram.com/filipeabessa/?hl=pt-br
   -https://www.linkedin.com/in/filipe-gbessa/
   
