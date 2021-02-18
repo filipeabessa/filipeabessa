@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/filipe-gbessa/)    and   [Instagram - @filipeabessa](https://www.instagram.com/filipeabessa/?hl=pt-br)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipegbessaa)](https://github.com/Filipegbessaa&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipegbessaa)](https://github.com/Filipegbessaa&show_icons=true&theme=gruvbox)
 
 <!--
 **Filipegbessaa/Filipegbessaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
