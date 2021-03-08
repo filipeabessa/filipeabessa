@@ -1,6 +1,6 @@
 ### Hi, I'm Filipe Bessa! 👋
 
-- 🔭 I’m currently working in the IMS project, from Porto Digital, as a frontend developer using React JS, Next JS, Styled Components, Bootstrap etc.
+- 🔭 I’m currently working in the IMS project, from Porto Digital, as a frontend developer and I'm using React JS, Next JS, Styled Components, Bootstrap etc.
 
 - 🌱 Now I'm learning Next JS! I'm working in my first project using this framework and i'm loving it!
 
