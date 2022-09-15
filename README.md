@@ -26,6 +26,9 @@
   <a href="https://docs.djangoproject.com/en/4.1/" target="_blank">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  </a>
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
