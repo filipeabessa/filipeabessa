@@ -9,8 +9,8 @@ I transform ideas into high-impact software. Specialist in Java, modern front-en
 - **Back-end**: Java, Spring Boot, Spring Security, Hibernate, Microservices, Kotlin, Python, Node.js, NestJS, Prisma, TypeORM, GraphQL  
 - **Front-end**: React, Next.js, TypeScript, JavaScript, SSR, SSG, Jest  
 - **Arquitetura & Práticas**: SOLID, TDD, Clean Code, Clean Architecture, Hexagonal, MVC, MVVM  
-- **Infra & Cloud**: Docker, Kubernetes, GitHub Actions, AWS, Azure  
+- **Infra & Cloud**: Docker, Kubernetes, GitHub Actions, AWS, Cloudformation Azure
 - **Monitoring**: Datadog, Dynatrace  
-- **Metodologias**: Agile, Scrum, Kanban  
+- **Metodologies**: Agile, Scrum, Kanban  
 
 ---
